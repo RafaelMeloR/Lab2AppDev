@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="inches.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="RainAverage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="DistanceTraveled.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ShippingCharges.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="TestScore.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="inches.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="RainAverage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="DistanceTraveled.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ShippingCharges.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="TestScore.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
