@@ -31,25 +31,21 @@ namespace Lab2
             if (combo1.SelectedIndex == 0)
             {
                 TestScore testScore = new TestScore();
-                Close();
                 testScore.Show();
             }
             else if (combo1.SelectedIndex == 1)
             { 
                 RainAverage rain = new RainAverage();
-                Close();
                 rain.Show();
             }
             else if ( combo1.SelectedIndex == 2)
             { 
                 ShippingCharges shippingCharges = new ShippingCharges();
-                Close();
                 shippingCharges.Show();
             }
             else if (combo1.SelectedIndex == 3)
             {
                 DistanceTraveled distanceTraveled = new DistanceTraveled(); 
-                Close();
                 distanceTraveled.Show();
             }
         }

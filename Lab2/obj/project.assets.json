@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell1\\Documents\\GitHub\\APPLICATION-DEVELOPMENT-1\\Lab2\\Lab2\\Lab2.csproj",
+      "projectUniqueName": "C:\\Users\\Dell1\\Documents\\GitHub\\APPLICATION-DEVELOPMENT-1\\Lab2\\Lab2AppDev\\Lab2\\Lab2.csproj",
       "projectName": "Lab2",
-      "projectPath": "C:\\Users\\Dell1\\Documents\\GitHub\\APPLICATION-DEVELOPMENT-1\\Lab2\\Lab2\\Lab2.csproj",
+      "projectPath": "C:\\Users\\Dell1\\Documents\\GitHub\\APPLICATION-DEVELOPMENT-1\\Lab2\\Lab2AppDev\\Lab2\\Lab2.csproj",
       "packagesPath": "C:\\Users\\Dell1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell1\\Documents\\GitHub\\APPLICATION-DEVELOPMENT-1\\Lab2\\Lab2\\obj\\",
+      "outputPath": "C:\\Users\\Dell1\\Documents\\GitHub\\APPLICATION-DEVELOPMENT-1\\Lab2\\Lab2AppDev\\Lab2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
